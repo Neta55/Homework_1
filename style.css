@@ -1,25 +1,27 @@
 h1 {
     text-align: left;
-    background-color: rgb(70, 40, 10);
-    color: wheat;
+    background-color: #682401;
+    color: white;
     padding: 0.5em;
     font-size: 27px;
-    font-style: oblique;
+    font-family: sans-serif;
+    font-style: lighter;
+    font-variant-caps: all-small-caps;
   }
 
   h2 {
     
-    color: rgb(70, 40, 10);
+    color: #682401;
     font: small-caps bold 30px sans-serif;
     
-    
+
   }
   h3 {
-    color: rgb(70, 40, 10);
+    color: #682401;
     font: bold 20px sans-serif;
   }
   .boldens {
-    color: rgb(70, 40, 10);
+    color: #682401;
     font: bold 15px sans-serif;
   }
   .san-serif14 {
@@ -44,7 +46,7 @@ h1 {
     color:white ;
     font-size: 15px;
     font-weight: bold;
-    background-color: rgb(70, 40, 10);
+    background-color: #682401;
     padding: 5px;
     margin: 0px 10px 10px 0px;
 
@@ -55,7 +57,8 @@ h1 {
   }
   .box_properties {
     width: 500px;
-    border: 2px dotted rgb(70, 40, 10);
+    background-color: white;
+    border: 2px dotted #682401;
     border-radius: 20px;
     margin: 20px 10px 20px 0px;
     padding: 20px 20px;
@@ -63,9 +66,19 @@ h1 {
   .ievads {
     
      font-size: 14px;
-     color: rgb(70, 40, 10);
+     color: #682401;
      font-family: sans-serif;
      text-align: justify;
-     font-weight: bold;
+     font-weight: bolder;
+     
 
   }
+  a:hover {
+    color: olive;
+  }
+
+  .dumakains {
+      background-color: whitesmoke;
+  }
+
+ 
