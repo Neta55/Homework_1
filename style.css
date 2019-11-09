@@ -1,0 +1,71 @@
+h1 {
+    text-align: left;
+    background-color: rgb(70, 40, 10);
+    color: wheat;
+    padding: 0.5em;
+    font-size: 27px;
+    font-style: oblique;
+  }
+
+  h2 {
+    
+    color: rgb(70, 40, 10);
+    font: small-caps bold 30px sans-serif;
+    
+    
+  }
+  h3 {
+    color: rgb(70, 40, 10);
+    font: bold 20px sans-serif;
+  }
+  .boldens {
+    color: rgb(70, 40, 10);
+    font: bold 15px sans-serif;
+  }
+  .san-serif14 {
+      font-family: sans-serif;
+      font-size: 14px;
+  }
+
+  .links1 {
+    text-align: left;
+    color: white ;
+    font-size: 14px;
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: 900;
+    background-color: silver;
+    padding: 5px;
+    margin: 30px 10px 30px 0px;
+
+  }
+  .links2 {
+    text-align: left;
+    color:white ;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(70, 40, 10);
+    padding: 5px;
+    margin: 0px 10px 10px 0px;
+
+  }
+
+  #box_shadow {
+    box-shadow: 0 10px 10px rgba(0,0,0,0.20), 0 10px 10px rgba(0,0,0,0.20);
+  }
+  .box_properties {
+    width: 500px;
+    border: 2px dotted rgb(70, 40, 10);
+    border-radius: 20px;
+    margin: 20px 10px 20px 0px;
+    padding: 20px 20px;
+  }
+  .ievads {
+    
+     font-size: 14px;
+     color: rgb(70, 40, 10);
+     font-family: sans-serif;
+     text-align: justify;
+     font-weight: bold;
+
+  }
